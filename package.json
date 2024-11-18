@@ -15,7 +15,7 @@
     "html",
     "css"
   ],
-  "homepage": "https://MahmoodAbuGneam.github.io/admin-dashboard",
+  "homepage": "https://MahmoodAbuGneam.github.io/AdminStream-Ecommerce-Admin-Panel/",
   "dependencies": {
     "@syncfusion/ej2": "^19.4.48",
     "@syncfusion/ej2-react-calendars": "^19.4.48",
